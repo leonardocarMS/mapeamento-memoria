@@ -8,9 +8,9 @@ Para compilar o código, use o GCC (ou outro compilador C). Execute o seguinte c
 
 
 # Compile
-gcc -O3 -Wall -Wextra -o main main.c 
+```gcc -O3 -Wall -Wextra -o main main.c 
 
 # Run
-./main
-```
+```./main
+
 
