@@ -7,10 +7,11 @@ Este projeto demonstra como mapear um arquivo na memória usando a função mmap
 Para compilar o código, use o GCC (ou outro compilador C). Execute o seguinte comando no terminal:
 
 
-# Compile
-```gcc -O3 -Wall -Wextra -o main main.c 
+# Como Compilar
 
-# Run
-```./main
+gcc -O3 -Wall -Wextra -o main main.c 
+
+# Como Executar
+./main
 
 
